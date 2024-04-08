@@ -3,4 +3,4 @@
 ## 1.作业2 
 作业2描述：余华《兄弟》的人物共线
 
-[作业2链接](https://github.com/ZC436/-.guthb.io/2017年海底捞门店数量.html)
+[作业2链接](https://github.com/ZC436/ZC-2/blob/main/%E4%BD%9C%E4%B8%9A2.html)
